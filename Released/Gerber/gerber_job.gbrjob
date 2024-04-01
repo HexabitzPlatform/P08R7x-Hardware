@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2024-03-24T21:13:12Z",
+        "CreationDate": "2024-04-01T23:42:19Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,12 +13,12 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "H08R7"
+            "ProjectId": "P08R7"
         },
         "Owner": "Ibrahim Zaeiter <zeater18@gmail.com>",
         "Size": {
-            "X": 34.64,
-            "Y": 30
+            "X": 28.02,
+            "Y": 26.65
         }
     }
 }

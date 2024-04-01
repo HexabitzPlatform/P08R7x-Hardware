@@ -191,7 +191,7 @@
 <plain>
 <text x="3.96875" y="4.60375" size="1.778" layer="22" rot="MR0">H08R70</text>
 <text x="-4.445" y="3.81" size="1.778" layer="25">B</text>
-<text x="-4.445" y="1.11125" size="1.778" layer="25">C</text>
+<text x="-4.445" y="1.190625" size="1.778" layer="25">C</text>
 <text x="-4.445" y="-1.42875" size="1.778" layer="25">D</text>
 <text x="-11.1125" y="4.28625" size="1.27" layer="21" font="vector" rot="R90" align="center">3V3</text>
 <text x="11.1125" y="4.1275" size="1.27" layer="21" font="vector" rot="R90" align="center">3V3</text>
